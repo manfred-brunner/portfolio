@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hanna! </h1>
+<h1>Hi, I'm Manfred! </h1>
 <h2>Welcome to my Data-Engineering portfolio</h2>
 <h2>👨‍💻 My Projects:</h2>
 
